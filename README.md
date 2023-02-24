@@ -12,3 +12,7 @@ Project description :
 * Using cutting-edge tools like Microsoft Power BI, Python and Microsoft SQL server Management studio.
 
 * This project showcases the power of data analytics to drive success in the modern business world. 
+
+# Screenshots of Project :
+
+![Power BI project](https://user-images.githubusercontent.com/122545046/221190154-71296f73-d8e5-4289-96a9-b08ca87bfa31.png)
